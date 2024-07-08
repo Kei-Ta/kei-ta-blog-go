@@ -1,3 +1,21 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ja'
+title = 'Kei-Ta Blog'
+theme = "PaperMod"
+[params]
+  useFontAwesome = true
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Engineer"
+    url = "/engineer/"
+    weight = 2
+
+  [[menu.main]]
+    name = "DIY"
+    url = "/diy/"
+    weight = 3
