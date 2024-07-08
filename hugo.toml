@@ -1,4 +1,4 @@
-baseURL = "https://kei-ta.github.io/"
+baseURL = "http://kei-ta.github.io/"
 languageCode = "ja"
 title = "Kei-Ta Blog"
 theme = "PaperMod"
