@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/kei-ta-blog-go/"
+baseURL = "http://localhost:1313/"
 languageCode = "ja"
 title = "Kei-Ta Blog"
 theme = "PaperMod"
