@@ -12,15 +12,15 @@ canonifyURLs = false
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/kei-ta-blog-go/"
+    url = "/"
     weight = 1
 
   [[menu.main]]
     name = "Engineer"
-    url = "/kei-ta-blog-go/engineer/"
+    url = "/engineer/"
     weight = 2
 
   [[menu.main]]
     name = "DIY"
-    url = "/kei-ta-blog-go/diy/"
+    url = "/diy/"
     weight = 3
