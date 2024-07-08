@@ -1,22 +1,26 @@
-baseURL = 'https://kei-ta.github.io/kei-ta-blog-go/'
-languageCode = 'ja'
-title = 'Kei-Ta Blog'
+baseURL = "http://localhost:1313/kei-ta-blog-go/"
+languageCode = "ja"
+title = "Kei-Ta Blog"
 theme = "PaperMod"
+
+relativeURLs = true
+canonifyURLs = false
 
 [params]
   useFontAwesome = true
+
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/kei-ta-blog-go/"
     weight = 1
 
   [[menu.main]]
     name = "Engineer"
-    url = "/engineer/"
+    url = "/kei-ta-blog-go/engineer/"
     weight = 2
 
   [[menu.main]]
     name = "DIY"
-    url = "/diy/"
+    url = "/kei-ta-blog-go/diy/"
     weight = 3
