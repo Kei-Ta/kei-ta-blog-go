@@ -1,13 +1,7 @@
-baseURL = "https://kei-ta.github.io/"
+baseURL = "https://kei-ta.github.io/kei-ta-blog-go/"
 languageCode = "ja"
 title = "Kei-Ta Blog"
 theme = "PaperMod"
-
-relativeURLs = true
-canonifyURLs = false
-
-[params]
-  useFontAwesome = true
 
 [menu]
   [[menu.main]]
