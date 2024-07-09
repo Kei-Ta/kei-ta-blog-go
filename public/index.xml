@@ -9,25 +9,21 @@
     <lastBuildDate>Sat, 08 Jul 2023 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/kei-ta-blog-go/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>aaa</title>
-      <link>http://localhost:1313/kei-ta-blog-go/diy/aaa/</link>
+      <title>Hugoでブログを作成し、GitHub Pagesで公開する</title>
+      <link>http://localhost:1313/kei-ta-blog-go/engineer/1/</link>
       <pubDate>Sat, 08 Jul 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kei-ta-blog-go/diy/aaa/</guid>
-      <description>これはArticle 1の内容です。</description>
+      <guid>http://localhost:1313/kei-ta-blog-go/engineer/1/</guid>
+      <description>自分のwebサイトをHugoを使用し作成しました。(このサイトです！)普段はNext.jsを使用しwebアプリを作成しているのですが、今回はHugoを使用することを決めました。選定利用としては様々なthemeがあり、利用や切り替えが楽、Markdownによるコンテンツ管理の容易さ、kubernetesのwebサイトで利用されており使ってみたかった点になります。
+手順 環境 MacOS(Ventura) go version 1.22.3
+構築 1. hugoのインストール brew install hugo 2. Hugoサイトの作成 hugo new site my-blog 3. PaperModテーマの追加 git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod echo &amp;#34;theme = &amp;#39;PaperMod&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml 4. トップ画面の作成 hugo.toml
+baseURL = &amp;#34;https://kei-ta.github.io/xxxx/&amp;#34; languageCode = &amp;#34;ja&amp;#34; title = &amp;#34;Kei-Ta Blog&amp;#34; theme = &amp;#34;PaperMod&amp;#34; [params] defaultTheme = &amp;#34;dark&amp;#34; [params.profileMode] enabled = true title = &amp;#34;Kei-Ta Blog&amp;#34; subtitle = &amp;#34;This blog is my activity log.&amp;#34; imageUrl = &amp;#34;https://kei-ta.</description>
     </item>
     <item>
-      <title>bbb</title>
-      <link>http://localhost:1313/kei-ta-blog-go/diy/bbb/</link>
+      <title>鍋敷きを作る</title>
+      <link>http://localhost:1313/kei-ta-blog-go/diy/1/</link>
       <pubDate>Sat, 08 Jul 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kei-ta-blog-go/diy/bbb/</guid>
-      <description>これはArticle 1の内容です。</description>
-    </item>
-    <item>
-      <title>ccc</title>
-      <link>http://localhost:1313/kei-ta-blog-go/diy/ccc/</link>
-      <pubDate>Sat, 08 Jul 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kei-ta-blog-go/diy/ccc/</guid>
-      <description>これはArticle 1の内容です。</description>
+      <guid>http://localhost:1313/kei-ta-blog-go/diy/1/</guid>
+      <description>下記の動画を参考に鍋敷きを作成しました。 材料費 100円(麻紐購入費) 制作時間 90分 難易度 簡単 この麻紐が、 こうなります。 フライパンを置くとこんな感じです。 簡単で使いやすいのでみなさんぜひ作ってみてください。</description>
     </item>
   </channel>
 </rss>

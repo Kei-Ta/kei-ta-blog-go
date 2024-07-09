@@ -9,25 +9,11 @@
     <lastBuildDate>Sat, 08 Jul 2023 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/kei-ta-blog-go/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>aaa</title>
-      <link>http://localhost:1313/kei-ta-blog-go/diy/aaa/</link>
+      <title>鍋敷きを作る</title>
+      <link>http://localhost:1313/kei-ta-blog-go/diy/1/</link>
       <pubDate>Sat, 08 Jul 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kei-ta-blog-go/diy/aaa/</guid>
-      <description>これはArticle 1の内容です。</description>
-    </item>
-    <item>
-      <title>bbb</title>
-      <link>http://localhost:1313/kei-ta-blog-go/diy/bbb/</link>
-      <pubDate>Sat, 08 Jul 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kei-ta-blog-go/diy/bbb/</guid>
-      <description>これはArticle 1の内容です。</description>
-    </item>
-    <item>
-      <title>ccc</title>
-      <link>http://localhost:1313/kei-ta-blog-go/diy/ccc/</link>
-      <pubDate>Sat, 08 Jul 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kei-ta-blog-go/diy/ccc/</guid>
-      <description>これはArticle 1の内容です。</description>
+      <guid>http://localhost:1313/kei-ta-blog-go/diy/1/</guid>
+      <description>下記の動画を参考に鍋敷きを作成しました。 材料費 100円(麻紐購入費) 制作時間 90分 難易度 簡単 この麻紐が、 こうなります。 フライパンを置くとこんな感じです。 簡単で使いやすいのでみなさんぜひ作ってみてください。</description>
     </item>
   </channel>
 </rss>

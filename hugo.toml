@@ -9,10 +9,8 @@ defaultTheme = "dark"
 enabled = true
 title = "Kei-Ta Blog"
 subtitle = "This blog is my activity log."
-imageUrl = "https://kei-ta.github.io/kei-ta-blog-go/static/me.jpg"
+imageUrl = "/kei-ta-blog-go/me.jpg"
 imageTitle = "me"
-imageWidth = 120
-imageHeight = 120
 
 
 [[params.socialIcons]]
@@ -21,7 +19,11 @@ url = "https://x.com/bondai_engineer"
 
 [[params.socialIcons]]
 name = "Github"
-url = "https://github.com/"
+url = "https://github.com/Kei-Ta"
+
+[[params.socialIcons]]
+name = "Instagram"
+url = "https://instagram.com/tk23.05"
 
 [menu]
 [[menu.main]]
