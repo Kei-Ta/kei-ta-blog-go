@@ -5,7 +5,10 @@
     <loc>http://localhost:1313/kei-ta-blog-go/diy/aaa/</loc>
     <lastmod>2023-07-08T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kei-ta-blog-go/aaa/</loc>
+    <loc>http://localhost:1313/kei-ta-blog-go/diy/bbb/</loc>
+    <lastmod>2023-07-08T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kei-ta-blog-go/diy/ccc/</loc>
     <lastmod>2023-07-08T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/kei-ta-blog-go/diy/</loc>
@@ -17,7 +20,11 @@
     <loc>http://localhost:1313/kei-ta-blog-go/</loc>
     <lastmod>2023-07-08T12:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/kei-ta-blog-go/archives/</loc>
+  </url><url>
     <loc>http://localhost:1313/kei-ta-blog-go/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kei-ta-blog-go/search/</loc>
   </url><url>
     <loc>http://localhost:1313/kei-ta-blog-go/tags/</loc>
   </url>

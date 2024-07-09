@@ -2,19 +2,39 @@ baseURL = "https://kei-ta.github.io/kei-ta-blog-go/"
 languageCode = "ja"
 title = "Kei-Ta Blog"
 theme = "PaperMod"
+[params]
+defaultTheme = "dark"
+
+[params.profileMode]
+enabled = true
+title = "Kei-Ta Blog"
+subtitle = "This blog is my activity log."
+imageUrl = "https://kei-ta.github.io/kei-ta-blog-go/static/me.jpg"
+imageTitle = "me"
+imageWidth = 120
+imageHeight = 120
+
+
+[[params.socialIcons]]
+name = "X"
+url = "https://x.com/bondai_engineer"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/"
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 
-  [[menu.main]]
-    name = "Engineer"
-    url = "/engineer/"
-    weight = 2
+[[menu.main]]
+name = "Engineer"
+url = "/engineer/"
+weight = 2
 
-  [[menu.main]]
-    name = "DIY"
-    url = "/diy/"
-    weight = 3
+[[menu.main]]
+name = "DIY"
+url = "/diy/"
+weight = 3
