@@ -1,0 +1,14 @@
+{
+  "name": "kei-ta-blog-go",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "changelog": "auto-changelog -p"
+  },
+  "devDependencies": {
+    "auto-changelog": "^2.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
