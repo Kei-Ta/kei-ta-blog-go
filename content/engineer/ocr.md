@@ -38,9 +38,11 @@ pip3 install pytesseract Pillow
 
 ## 画像の用意
 下記のように画像を用意する
+```
 ocr/
 ├── test.png
 └── main.py
+```
 
 ![テスト画像](/kei-ta-blog-go/test.png)
 
