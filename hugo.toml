@@ -40,3 +40,7 @@ weight = 2
 name = "DIY"
 url = "/diy/"
 weight = 3
+
+[server]
+  enableLiveReload = true
+  watch = true
