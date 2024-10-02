@@ -5,4 +5,3 @@ draft: false
 ---
 
 {{< github_readme user="Kei-Ta" repo="fuse-redis" >}}
-

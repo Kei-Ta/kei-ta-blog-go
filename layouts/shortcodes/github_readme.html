@@ -5,7 +5,7 @@
 {{ $response := getJSON $url }}
 {{ if $response }}
 {{ $content := $response.content | safeHTML }}
-{{ $content | markdownify }}
+{{ $content | base64Decode | markdownify }}
 {{ else }}
 <p>READMEが取得できませんでした。</p>
 {{ end }}
