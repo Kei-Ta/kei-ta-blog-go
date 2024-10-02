@@ -1,0 +1,11 @@
+{{ $repo := .Get "repo" }}
+{{ $username := .Get "user" }}
+{{ $url := printf "https://api.github.com/repos/%s/%s/readme" $username $repo }}
+
+{{ $response := getJSON $url }}
+{{ if $response }}
+{{ $content := $response.content | safeHTML }}
+{{ $content | markdownify }}
+{{ else }}
+<p>READMEが取得できませんでした。</p>
+{{ end }}
