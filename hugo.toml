@@ -41,6 +41,11 @@ name = "DIY"
 url = "/diy/"
 weight = 3
 
+[[menu.main]]
+name = "Coffee"
+url = "/coffee/"
+weight = 4
+
 [server]
   enableLiveReload = true
   watch = true
