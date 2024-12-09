@@ -18,7 +18,7 @@ draft: false
 | MUST NOT、SHALL NOT |	絶対的に禁止されている項目。 |
 
 ## 設計
-
+### [ソフトウェア設計原則入門](https://speakerdeck.com/masuda220/big-ball-of-mud)
 
 ## 開発
 ### [データの信頼性](https://speakerdeck.com/chanyou0311/detanoxin-lai-xing-wozhi-erushi-zu-mitoji-shu)
